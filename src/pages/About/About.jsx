@@ -51,11 +51,12 @@ export default function About() {
               </div>
               <div style={{ height: 12 }} />
               <div className="p" style={{ marginTop: 8 }}>
-                    At Bhuviona, we believe that the next frontier of technology isn't just Artificial Intelligence—it is Augmented Wisdom. 
-                    My journey over the last two decades across MedTech, SaaS, and Global Delivery has taught me one fundamental truth: Technology only succeeds when it honors the human element.
+                    At Bhuviona, we believe that the next frontier of technology isn't just Artificial Intelligence, it is Augmented Wisdom. 
+                    My journey over the last two decades across MedTech, SaaS, and Global Delivery has taught me one fundamental truth: Technology only succeeds when it honors the human element. <br/>
+                
                     We built VYON not to replace the teacher or the learner, but to act as a boundless intelligence layer. 
-                    It is designed to amplify human capability, transforming data into insight and questions into mastery. 
-                    At Bhuviona, we aren't just building a platform; we are architecting the future of how intelligence scales.
+                    It is designed to amplify human capability, transforming data into insight and questions into mastery. <br/>
+                    <strong> At Bhuviona, we aren't just building a platform; we are architecting the future of how intelligence scales. </strong>  
               </div>
               <div style={{ marginTop: 14, fontWeight: 700, color: "var(--aqua)" }}>
                 — Prashanth Kubsad, Founder & CEO
