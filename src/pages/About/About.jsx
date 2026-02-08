@@ -47,14 +47,15 @@ export default function About() {
             <Card>
               <div className="h3">Founder's Desk</div>
               <div className="p-sm" style={{ marginTop: 8 }}>
-                Every idea begins with a question. Mine was simple: <em>What if intelligence could expand — not just compute?</em>
+                Every idea begins with a question. Mine was simple: <em>What if intelligence could expand not just compute?</em>
               </div>
               <div style={{ height: 12 }} />
               <div className="p" style={{ marginTop: 8 }}>
-                At Bhuviona, our journey is not just to build AI — it's to expand intelligence itself. 
-                We're guided by the principle that the best technology doesn't replace human capability. 
-                It amplifies it. That's why VYON isn't just a platform. It's an intelligence layer that 
-                helps learners and institutions make better learning decisions.
+                    At Bhuviona, we believe that the next frontier of technology isn't just Artificial Intelligence—it is Augmented Wisdom. 
+                    My journey over the last two decades across MedTech, SaaS, and Global Delivery has taught me one fundamental truth: Technology only succeeds when it honors the human element.
+                    We built VYON not to replace the teacher or the learner, but to act as a boundless intelligence layer. 
+                    It is designed to amplify human capability, transforming data into insight and questions into mastery. 
+                    At Bhuviona, we aren't just building a platform; we are architecting the future of how intelligence scales.
               </div>
               <div style={{ marginTop: 14, fontWeight: 700, color: "var(--aqua)" }}>
                 — Prashanth Kubsad, Founder & CEO
