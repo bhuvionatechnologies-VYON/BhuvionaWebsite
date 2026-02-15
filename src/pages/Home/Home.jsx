@@ -91,7 +91,7 @@ export default function Home() {
           
           <div style={{ marginTop: 24 }} className="grid-3">
             <div className="card">
-              <div className="h3">🎯 Adaptive Learning</div>
+              <div className="h3" style={{ fontSize: 18, color: "var(--aqua)" }}>🧭 Adaptive Mastery Pathways</div>
               <div className="p" style={{ marginTop: 8 }}>
                 Personalized learning paths that adapt to each student's pace, 
                 strengths, and areas for improvement using advanced AI algorithms.
@@ -99,7 +99,7 @@ export default function Home() {
             </div>
 
             <div className="card">
-              <div className="h3">📊 Actionable Insights</div>
+              <div className="h3" style={{ fontSize: 18, color: "var(--aqua)" }}>📊 Actionable Insights</div>
               <div className="p" style={{ marginTop: 8 }}>
                 Real-time analytics and dashboards that help teachers understand 
                 student progress and make data-driven instructional decisions.
@@ -107,10 +107,31 @@ export default function Home() {
             </div>
 
             <div className="card">
-              <div className="h3">⚡ Effortless Planning</div>
+              <div className="h3" style={{ fontSize: 18, color: "var(--aqua)" }}>⚡Effortless Planning</div>
               <div className="p" style={{ marginTop: 8 }}>
                 AI-powered lesson generation, assessment creation, and curriculum 
                 alignment that saves hours of preparation time.
+              </div>
+            </div>
+            <div className="card">
+              <div className="h3" style={{ fontSize: 18, color: "var(--aqua)" }}> 🕸️ Knowledge Dependency Mapping</div>
+              <div className="p" style={{ marginTop: 8 }}>
+                Curriculum-linked knowledge graph identifying prerequisite structures 
+                and learning progression risks.
+              </div>
+            </div>
+              <div className="card">
+              <div className="h3" style={{ fontSize: 18, color: "var(--aqua)" }}> 🎯 Exam Readiness Engine</div>
+              <div className="p" style={{ marginTop: 8 }}>
+                Mock test simulation powered by intelligent question selection 
+                and difficulty calibration.
+              </div>
+            </div>
+              <div className="card">
+              <div className="h3" style={{ fontSize: 18, color: "var(--aqua)" }}> 🧠 Semantic Evaluation & Automated Grading</div>
+              <div className="p" style={{ marginTop: 8 }}>
+                Context-aware assessment that evaluates conceptual clarity,
+                not just keyword matching.
               </div>
             </div>
           </div>
