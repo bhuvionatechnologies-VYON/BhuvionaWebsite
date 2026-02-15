@@ -27,13 +27,18 @@ export default function Products() {
           <div style={{ marginTop: 18 }} className="grid-2">
             <Card>
               <div className="h3" style={{ fontSize: 24, color: "var(--aqua)" }}>VYON — Boundless Knowledge</div>
-              <div className="taglineGold" style={{ marginTop: 8 }}>
-                An intelligence layer for better learning decisions
+              <div className="taglineGold" style={{ fontSize: 14, marginTop: 8 }}>
+                An intelligence layer for learning systems — powered by AI, designed for humans.
               </div>
               
               <div className="p" style={{ marginTop: 12 }}>
-                To make every teacher extraordinary and every student unstoppable — transforming 
-                education through intelligent, empathetic AI that amplifies human potential.
+                VYON is not another content platform.
+                It is an integrated cognitive layer designed to enhance how teaching and learning decisions are made.
+
+                Built to support educators and learners simultaneously, VYON transforms static curriculum into adaptive, insight-driven learning pathways.
+
+                To make every teacher precise.
+                To make every student unstoppable.
               </div>
               
               <div className="p-sm" style={{ marginTop: 8, fontWeight: 600 }}>
@@ -42,14 +47,14 @@ export default function Products() {
 
               <div style={{ height: 14 }} />
 
-              <div className="h3">Key Features</div>
+              <div className="h3" style={{ fontSize: 20, color: "var(--aqua)" }} >What VYON Enables</div>
               <ul className="p" style={{ marginTop: 8, paddingLeft: 20 }}>
-                <li>Adaptive learning paths personalized to each student</li>
-                <li>AI-powered lesson generation for teachers</li>
-                <li>Real-time classroom analytics and insights</li>
-                <li>Mock test simulator with intelligent question selection</li>
-                <li>Automated grading with semantic understanding</li>
-                <li>Knowledge point dependency mapping</li>
+                <li>Adaptive Mastery Pathways</li>
+                <li>AI-Driven Lesson Architecture</li>
+                <li>Real-Time Classroom Intelligence</li>
+                <li>Exam Readiness Engine</li>
+                <li>Semantic Evaluation & Automated Grading</li>
+                <li>Knowledge Dependency Mapping</li>
               </ul>
 
               <div className="ctaRow" style={{ marginTop: 16 }}>
@@ -63,7 +68,7 @@ export default function Products() {
                     variant="solid" 
                     onClick={() => navigate('/contact')}
                   >
-                    Contact for Pricing
+                    Contact for Collaboration
                   </Button>
                 <Button onClick={() => window.open('https://www.youtube.com/@bhuviona', '_blank')}>
                   Watch Demo
@@ -90,7 +95,7 @@ export default function Products() {
                    It's like having a personal tutor for every student."
                 </div>
                 <div className="p-sm" style={{ fontWeight: 700, marginTop: 8, color: "var(--aqua)" }}>
-                  — Sumalini R., Parent & Educator
+                  — Sumathi S., Parent & Educator
                 </div>
               </div>
 
