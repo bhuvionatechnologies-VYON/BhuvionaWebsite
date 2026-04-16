@@ -78,16 +78,6 @@ export default function About() {
                     Passionate about leveraging technology to democratize quality education.
                   </div>
                 </div>
-                <div>
-                  <div className="p">
-                    <strong style={{ color: "var(--aqua)" }}>Vrushabh Rajaghatta</strong><br />
-                    Technology Lead & Co-Founder
-                  </div>
-                  <div className="p-sm" style={{ marginTop: 4 }}>
-                    Technical architect with deep expertise in machine learning and scalable systems. 
-                    Drives innovation in adaptive learning algorithms.
-                  </div>
-                </div>
               </div>
             </Card>
           </div>
